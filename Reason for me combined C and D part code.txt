@@ -1,0 +1,2 @@
+I didn't know I need to submit these code again on moodle so when I was doing the Distinction part, I just modified based on Credit part code.
+The file is named "Credit" but it contains Distinction part codes.
